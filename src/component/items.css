@@ -1,0 +1,22 @@
+body{
+    margin:0;
+    padding:0;
+
+}
+
+.container:nth-of-type(odd){
+background-color: aqua;
+color:#cc13c6;
+padding: 6px;
+}
+
+.container:nth-of-type(even){
+    background-color: rgb(200, 255, 0);
+    color:rgb(29, 15, 155);
+    padding: 6px;
+ }
+
+ p{
+     text-align: center;
+     font-size: large;
+ }  
